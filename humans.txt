@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jean-Daniel Dumas	IT Programmer-Analyst	jddumas@cooptel.coop
 
 # THANKS
 
